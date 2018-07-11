@@ -8,3 +8,17 @@ html, body {
 	height: 100%;
 	width: 100%;
 }
+
+.leaflet-fusesearch-control{
+box-shadow:0 1px 5px rgba(0,0,0,0.4);
+background:#fff;
+border-radius:5px
+}
+.leaflet-fusesearch-control .button{
+background-position:50% 50%;
+background-repeat:no-repeat;
+background-image:url(../images/search.png);
+display:block;
+width:36px;
+height:36px
+}

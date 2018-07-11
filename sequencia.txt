@@ -1,0 +1,9 @@
+DESENVOLVIMENTO TP FINAL:
+
+
+ - Instalar conector MySQL-Python
+- Instalar modulo Python-MySQLdb
+https://github.com/evinw/Python-MySQLdb-Module
+
+- Fazer a conexão com o banco MySQL Remoto por Python
+
